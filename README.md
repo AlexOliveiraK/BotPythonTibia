@@ -9,7 +9,7 @@
 
 # para comer, criar uma hotkey de use com a letra 'o' com alguma comida
 
-# por um atalho no modo chat-off para o toggle Chase mode (imagem "EXEMPLOS/toggleChaseMode.png")
+# por um atalho no modo chat-off para o toggle Chase mode com a letra "p" (imagem "EXEMPLOS/toggleChaseMode.png")
 
 # resolução 1920x1080
 
