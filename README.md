@@ -1,3 +1,5 @@
+# EVITE SER BANIDO NÃO USAR NO GLOBAL - Ots com proteção para tirar print da tela, deve-se usar a visualizaçao da tela pelo OBS
+
 # BotPythonTibia
 
 # para rodar o bot, execute o arquivo "main.py"
